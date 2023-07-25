@@ -1,0 +1,10 @@
+* binary-parser
+
+Mirror of https://git.mfiano.net/mfiano/binary-parser
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mfiano/binary-parser.git   |
+| commit  | f3529af  |
+| systems | binary-parser |
+|---------+-------------------------------------------|
+
